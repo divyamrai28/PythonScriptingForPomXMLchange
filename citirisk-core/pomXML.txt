@@ -1,6 +1,6 @@
 <not-required-1>1.2.1</not-required-1>
 <not-required-2>11.31.01</not-required-2>
-<Java-main>1.1</Java-main>
-<Spring-main>2.1</Spring-main>
-<Apache-main>3.1</Apache-main>
+<Java-main>1.2</Java-main>
+<Spring-main>2.2</Spring-main>
+<Apache-main>3.2</Apache-main>
 <not-required-3>01.02.101</not-required-3>
